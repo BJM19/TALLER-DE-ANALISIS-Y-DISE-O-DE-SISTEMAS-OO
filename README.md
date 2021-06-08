@@ -4,10 +4,6 @@ Este programa calcula la desviacion estandar y la media de n numeros tomados de 
 
 ### Prerrequisitos
 
-Los pasos a continuación permiten clonar el programa en su computador.
-
-
-
 Eston son los requisitos que software que tienen que estar instalados previamente:
 
 ```
